@@ -1,0 +1,18 @@
+Error: Password length invalid.;1
+Error: Password length invalid.;1
+Password Score: 11;2
+Password Score: 36;2
+Password Score: 16;2
+Password Score: 41;2
+Password Score: 17;2
+Password Score: 17;2
+Password Score: 3;2
+Password Score: 3;2
+Password Score: 17;2
+Password Score: 14;2
+Password Score: 17;2
+Password Score: 14;2
+Password Score: 8;2
+Password Score: 32;2
+Password Score: 26;5
+Password Score: 21;5
